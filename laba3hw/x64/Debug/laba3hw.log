@@ -1,0 +1,3 @@
+﻿  laba3hw.c
+C:\Users\GA-H110M-S2\Desktop\C C++ C#\laba3hw\laba3hw\laba3hw.c(21,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  laba3hw.vcxproj -> C:\Users\GA-H110M-S2\Desktop\C C++ C#\laba3hw\x64\Debug\laba3hw.exe
